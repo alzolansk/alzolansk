@@ -1,6 +1,6 @@
  # 👋 Oi! Eu sou o João
 
-🎓 Formado em [Curso] com foco em Análise de Dados  
+🎓 Graduandp em Sistemas de Informação
 💼 Atualmente atuo como Assistente Administrativo II na Odontoprev, focado em BI e automações  
 🚀 Apaixonado por transformar dados em decisões — com projetos reais em BI, IA e web
 
