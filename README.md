@@ -1,7 +1,7 @@
  # 👋 Oi! Eu sou o João
 
-🎓 Graduandp em Sistemas de Informação
-💼 Atualmente atuo como Assistente Administrativo II na Odontoprev, focado em BI e automações  
+🎓 Graduando em Sistemas de Informação
+💼 Atualmente atuo como Estagiário de Dados na Equifax.  
 🚀 Apaixonado por transformar dados em decisões — com projetos reais em BI, IA e web
 
 ## 🧰 Tecnologias que uso
