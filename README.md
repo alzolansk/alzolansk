@@ -13,6 +13,5 @@
 ## 📌 Destaques do Portfólio
 🔎 [Sentiment Analysis - Tweets](https://github.com/alzolansk/sentiment-analysis-tweets): Análise de sentimentos com NLP + visualizações  
 🎬 [Where You Watch](https://github.com/alzolansk/where-to-watch) || whereuwatch.com: Web app para buscar onde assistir filmes, com TMDB API  
-📈 Dashboards Power BI (privados - disponíveis sob demanda)
 
-📫 Me encontre no [LinkedIn](https://linkedin.com/in/joaoalvesz)
+Me encontre no [LinkedIn](https://linkedin.com/in/joaoalvesz)
